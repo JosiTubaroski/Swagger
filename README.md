@@ -36,3 +36,11 @@ Em 2015, a SmartBear Software adquiriu o Swagger e doou o projeto para a OpenAPI
 A partir daí, o Swagger passou a ser um conjunto de ferramentas baseadas no OpenAPI:
 
 <img src="https://github.com/JosiTubaroski/Swagger/blob/main/img/05_Swagger.png"/>
+
+### 4. Swagger Hoje
+
+Atualmente, o Swagger continua sendo amplamente usado, e o OpenAPI Specification (OAS) é o padrão oficial para documentação de APIs REST. Ele é suportado por diversas ferramentas e frameworks, como ASP.NET Core, Spring Boot, FastAPI, Laravel, Express.js e muitos outros.
+
+### Conclusão
+
+O Swagger surgiu para resolver o problema da documentação inconsistente e difícil de manter em APIs REST. Com sua abordagem automatizada e interativa, ele revolucionou o desenvolvimento e consumo de APIs, tornando-se um dos padrões mais utilizados na indústria.
