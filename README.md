@@ -31,4 +31,4 @@ Em 2015, a SmartBear Software adquiriu o Swagger e doou o projeto para a OpenAPI
 
 A partir daí, o Swagger passou a ser um conjunto de ferramentas baseadas no OpenAPI:
 
-
+<img src="https://github.com/JosiTubaroski/Swagger/blob/main/img/05_Swagger.png"/>
